@@ -1,4 +1,4 @@
-# RAG Guias_clinicas
+# Maternal care: Is it good to trust in clinical guidelines-based recommendations given by IA?
 
 This repository contains the necessary code to reproduce the models for our paper title "Maternal care: Is it good to trust in clinical guidelines-based
 recommendations given by IA?"
