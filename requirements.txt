@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-openai
+langchain-aws
+langchain-ollama
+langchain-huggingface
+boto3
+pypdf
+fire
+pandas
+openpyxl
+tqdm
+datasets
+ragas
+sentence-transformers

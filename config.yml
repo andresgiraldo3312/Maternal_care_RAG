@@ -1,0 +1,20 @@
+chunk_size: 1024
+chunk_overlap: 200
+#llm_model: "anthropic.claude-3-5-sonnet-20240620-v1:0"
+#llm_model: "cohere.command-r-plus-v1:0" // NOT SUPPORTED
+#llm_model: "ai21.jamba-instruct-v1:0" // NOT SUPPORTED
+#llm_model: "meta.llama3-70b-instruct-v1:0"
+#llm_model: "meta.llama3-8b-instruct-v1:0"
+#llm_model: "mistral.mistral-large-2402-v1:0"
+#llm_model: "llama3.1"
+#llm_model: "gemini-2.0-flash-001"
+#llm_model: "gemini-2.0-flash-thinking-exp-01-21"
+#llm_model: "gemini-2.0-flash-lite-001"
+#llm_model: "gemini-2.0-pro-exp-02-05"
+#llm_model: "claude-3-7-sonnet@20250219"
+#llm_model: "meta/llama-3.3-70b-instruct-maas"
+llm_model: "gemma2:2b"
+temperature: 0
+top_k_retriever: 5
+system_prompt: "Eres un especialista en ginecologia y obstetricia, te vas a comportar como un asesor para responder preguntas de guias clinicas."
+rag_prompt: "A continuación se presenta una pregunta seguida de documentos relevantes. Proporcione una respuesta detallada basada en estos documentos. Si la respuesta no esta en los documentos responder: la respuesta no esta en la guia."
