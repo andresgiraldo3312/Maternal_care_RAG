@@ -1,7 +1,11 @@
 # Maternal care: Is it good to trust in clinical guidelines-based recommendations given by IA?
 
-This repository contains the necessary code to reproduce the models for our paper title "Maternal care: Is it good to trust in clinical guidelines-based
+This repository contains the necessary code to reproduce the pipeline for our paper title "Maternal care: Is it good to trust in clinical guidelines-based
 recommendations given by IA?"
+
+# Pipeline
+
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/05f8bca5-9eae-4008-8730-fe70ec1a5b69" />
 
 # Reproducibility
 
