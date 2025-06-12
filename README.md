@@ -5,7 +5,8 @@ recommendations given by IA?"
 
 # Pipeline
 
-<img width="614" alt="image" src="https://github.com/user-attachments/assets/05f8bca5-9eae-4008-8730-fe70ec1a5b69" />
+[<img width="614" alt="image" src="https://github.com/user-attachments/assets/05f8bca5-9eae-4008-8730-fe70ec1a5b69" />]: #
+![esquema](https://github.com/user-attachments/assets/6272f495-c6a8-4e3f-9eb9-29356daf83ab)
 
 # Reproducibility
 
